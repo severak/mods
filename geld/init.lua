@@ -18,3 +18,9 @@ minetest.register_craft({
 		{"","default:mese",""}
 	}
 })
+
+minetest.register_craftitem("geld:tetradrachm",{
+	description="Tetradrachm",
+	stack_max=100,
+	inventory_image="geld_tetradrachm.png"
+})
