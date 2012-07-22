@@ -1,0 +1,95 @@
+cccccccccccccccccc
+c                c
+c     c  1 c     c
+c     c    c     c
+ccc ccccc  ccc ccc
+c     c    c     c
+cfffffcc  ccfffffc
+==floor
+ccgggcccggcccgggcc
+c                c
+c     c    c     c
+c     ccc  c     c
+ccc ccc    ccc ccc
+c     c    c     c
+c     cc  cc     c
+==floor
+ccgggcccggcccgggcc
+c     c    c     c
+c     ccc  c     c
+c     c    c     c
+ccc ccc    ccc ccc
+c     c    c     c
+c     cccccc     c
+==floor
+cccccccccccccccccc
+cccccccccccccccccc
+ccccccc 2ccccccccc
+ccccccc  ccccccccc
+ccccccc  ccccccccc
+cccccccccccccccccc
+cccccccccccccccccc
+==floor
+cccccccccccccccccc
+c                c
+c     c    c     c
+c     c    c     c
+ccc ccccc  ccc ccc
+c     c    c     c
+cfffffccccccfffffc
+==floor
+ccgggcccggcccgggcc
+c                c
+c     c    c     c
+c     ccc  c     c
+ccc ccc    ccc ccc
+c     c    c     c
+c     ccggcc     c
+==floor
+ccgggcccggcccgggcc
+c     c    c     c
+c     ccc  c     c
+c     c    c     c
+ccc ccc    ccc ccc
+c     c    c     c
+c     ccggcc     c
+==floor
+cccccccccccccccccc
+cccccccccccccccccc
+ccccccc 3ccccccccc
+ccccccc  ccccccccc
+ccccccc  ccccccccc
+cccccccccccccccccc
+cccccccccccccccccc
+==floor
+cccccccccccccccccc
+c                c
+c     c    c     c
+c     c    c     c
+ccc ccccc  ccc ccc
+c     c    c     c
+cfffffccccccfffffc
+==floor
+ccgggcccggcccgggcc
+c                c
+c     c    c     c
+c     ccc  c     c
+ccc ccc    ccc ccc
+c     c    c     c
+c     ccggcc     c
+==floor
+ccgggcccggcccgggcc
+c     c    c     c
+c     ccc  c     c
+c     c    c     c
+ccc ccc    ccc ccc
+c     c    c     c
+c     ccggcc     c
+==floor
+cccccccccccccccccc
+cccccccccccccccccc
+ccccccc 4ccccccccc
+ccccccc  ccccccccc
+ccccccc  ccccccccc
+cccccccccccccccccc
+cccccccccccccccccc
