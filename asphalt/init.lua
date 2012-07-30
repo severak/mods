@@ -100,7 +100,7 @@ minetest.register_node("asphalt:cracked", {
 		type = "fixed",
 		--fixed = <default>
 	},
-	drop = "default:gravel"
+	drop = {}
 })
 
 minetest.register_craftitem("asphalt:synthetic",{
@@ -164,7 +164,7 @@ minetest.register_abm({
 	chance = 30000,
 	interval = 1,
 	action = function(pos)
-		print("asphalt cracking")
+		print(string.format("asphalt cracking at %4d,%4d,%4d",pos.x,pos.y,pos.z))
 		if asphalt.cracking and asphalt.is_not_batch then
 			minetest.env:add_node(pos, { name = "asphalt:cracked" })
 		end
@@ -176,7 +176,7 @@ minetest.register_abm({
 	chance = 90000,
 	interval = 1,
 	action = function(pos)
-		print("asphalt disappeared")
+		print(string.format("asphalt disappeared at %4d,%4d,%4d",pos.x,pos.y,pos.z))
 		if asphalt.disappear and asphalt.is_not_batch then
 			minetest.env:add_node(pos, { name = "air" })
 		end
