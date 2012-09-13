@@ -1,0 +1,7 @@
+ c 
+==floor
+ c 
+==floor
+ccc
+==floor
+ c 

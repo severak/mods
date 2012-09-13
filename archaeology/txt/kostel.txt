@@ -1,0 +1,77 @@
+                 cccccc          
+                 c    c          
+  cccccccccccccccc    ccccccc    
+  c                          c   
+  c                           c  
+                            w c  
+  c                           c  
+  c                          c   
+  cccccccccccccccc    ccccccc    
+                 c   dc          
+                 cd dmc          
+                 cccccc          
+==floor
+                 cccccc          
+                 c    c          
+  ccc  ccc  cc  cc    ccc  cc    
+  c                          c   
+  c                           c  
+                            w    
+  c                           c  
+  c                          c   
+  ccc  ccc  cc  cc    ccc  cc    
+                 c    c          
+                 c   cc          
+                 cccccc          
+==floor
+                 cccccc          
+                 c    c          
+  ccc  ccc  cc  cc    ccc  cc    
+  c                          c   
+  c                           c  
+  c                         w     
+  c                           c  
+  c                          c   
+  ccc  ccc  cc  cc    ccc  cc    
+                 c    c          
+                 c    c          
+                 cccccc          
+==floor
+                 cccccc          
+                 c    c          
+  ccc  ccc  cc  cc    ccc  cc    
+  c                          c   
+  c                         w c  
+  c                         w    
+  c                         w c  
+  c                          c   
+  ccc  ccc  cc  cc    ccc  cc    
+                 c    c          
+                 c               
+                 cccccc          
+==floor
+                 cccccc          
+                 c    c          
+  ccc   ccc cc ccc    cccc cc    
+  c                          c   
+  c                           c  
+  c                         w    
+  c                           c  
+  c                          c   
+  ccc ccccc cc ccc    cccc cc    
+                 c    c          
+                 c               
+                 ccccc           
+==floor
+                 cccccc          
+                 c    c          
+         ccccc ccc    ccccccc    
+  c                          c   
+  c                           c  
+  c                           c  
+  c                           c  
+  c                          c   
+  cccccccccccccccc    ccccccc    
+                 c    c          
+                 c               
+                 cc c            
