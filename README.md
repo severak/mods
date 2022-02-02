@@ -2,9 +2,11 @@
 
 various modes for Minetest. Use at own risk!
 
-New:
+New, but incomplete:
 
 - signalbox - basically mesecon switches on steroids to be used on railway signal boxes to switch tracks
+- lowtech - low level technology (e.g. grindstone)
+- geodesy - tools for measuring world
 
 Old, but working:
 
